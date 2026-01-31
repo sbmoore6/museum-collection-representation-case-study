@@ -1,7 +1,7 @@
 # Cultural Representation in American Museums
 <p align="center">
-  <img src="images/aic_museum.avif" height="275" />
-  <img src="images/world_map.jpg" height="275" />
+  <img src="images/aic_museum.avif" height="250" />
+  <img src="images/world_map.jpg" height="250" />
 </p>
 
 ## Project Overview
@@ -115,8 +115,8 @@ Special handling was required due to API rate limits and inconsistent geographic
 - Africa, South America, and Oceania show disproportionately low representation
   - Oceania's low representation may be partially explained by lower land mass and population
 <p align="center">
-  <img src="images/continent_choropleth.png" height="275" />
-  <img src="images/country_choropleth.png" height="275" />
+  <img src="images/continent_choropleth.png" height="250" />
+  <img src="images/country_choropleth.png" height="250" />
 </p>
 
 ### Interpretation Considerations
