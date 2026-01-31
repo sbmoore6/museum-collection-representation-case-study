@@ -157,9 +157,9 @@ Representation imbalance does not necessarily imply institutional bias but may b
 - Built reporting narrative and final presentation materials
 
 ## Post Mortem
-- Excel was used to sample the MET dataset due to its size, but looking back I would have used a hosting website and possibly utilized SQL to handle the large dataset.
-- .py should have been used to streamline operations and make the results more reproducable.
-- Instead of using so much Regex logic to handle discrepancies in names of countries, fuzzymatch would have been a cleaner option.
+- Excel was used to sample the MET dataset due to its size, but looking back I would have used a hosting website and possibly utilized SQL to handle the large dataset
+- .py should have been used to streamline operations and make the results more reproducable
+- Fuzzymatch would have been a cleaner option to handle some of the spelling and format country name discrepencies
 
 ## Portfolio Note
 The original project was completed as a [collaborative academic project](https://github.com/mollykstark/SIADS-Milestone-1/tree/main). This repository is intended to demonstrate data cleaning methodology, analytical reasoning, and reproducible workflow design.
