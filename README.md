@@ -17,7 +17,7 @@ This project analyzes cultural representation patterns across two major U.S. art
    - Per museum
    - Combined
  3) Compare museum representation to:
-   - Global population distribution
-   - Continental landmass distribution
+    - Global population distribution
+    - Continental landmass distribution
 
 These objectives were designed to provide insight into collection diversity patterns and potential acquisition bias.
