@@ -54,7 +54,8 @@ Key Steps:
 4) Manual review for unmapped entries
 5) Converted country to continent using pycountry-convert
 
-Approximate missing country data after cleaning: ~8.6%
+Approximate missing country data after cleaning was ~8.6%
+
 Due to file size constraints, a random sample of 150,000 rows was used for analysis.
 
 ### Data Cleaning: AIC Data
