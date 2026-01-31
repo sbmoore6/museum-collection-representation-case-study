@@ -70,11 +70,11 @@ Special handling was required due to API rate limits and inconsistent geographic
 
 ### Dataset Integration
 1) Standardized shared columns:
-  - Title
-  - Department
-  - Accession Year
-  - Country
-  - Continent
+   - Title
+   - Department
+   - Accession Year
+   - Country
+   - Continent
 2) Added museum indicator column
 3) Combined datasets using pandas vertical concatenation
 4) Built aggregated datasets grouped by:
