@@ -1,7 +1,7 @@
 # Cultural Representation in American Museums
 <p align="center">
-  <img src="images/aic_museum.avif" height="250" />
-  <img src="images/world_map.jpg" height="250" />
+  <img src="figures/aic_museum.avif" height="250" />
+  <img src="figures/world_map.jpg" height="250" />
 </p>
 
 ## Project Overview
@@ -94,7 +94,7 @@ Special handling was required due to API rate limits and inconsistent geographic
   - South America’s population (South America ~443M vs North America ~608M) suggests representation should be closer than observed.
 
 <p align="center">
-  <img src="images/continents_vis_combo.png" height="400">
+  <img src="figures/continents_vis_combo.png" height="400">
 </p>
  
  ### Country Level Analysis
@@ -106,7 +106,7 @@ Special handling was required due to API rate limits and inconsistent geographic
  - Some African countries show zero representation in the combined dataset
 
 <p align="center">
-  <img src="images/country_vis_combo.png" height="400">
+  <img src="figures/country_vis_combo.png" height="400">
 </p>
 
 ### Combined Datasets Analysis
@@ -115,8 +115,8 @@ Special handling was required due to API rate limits and inconsistent geographic
 - Africa, South America, and Oceania show disproportionately low representation
   - Oceania's low representation may be partially explained by lower land mass and population
 <p align="center">
-  <img src="images/continent_choropleth.png" height="250" />
-  <img src="images/country_choropleth.png" height="250" />
+  <img src="figures/continent_choropleth.png" height="250" />
+  <img src="figures/country_choropleth.png" height="250" />
 </p>
 
 ### Interpretation Considerations
