@@ -52,4 +52,17 @@ Key Steps:
 4) Applied regex cleaning for punctuation and noise removal
 4) Manual review for unmapped entries
 5) Converted country to continent using pycountry-convert
+
+Approximate missing country data after cleaning: ~8.6%
 Due to file size constraints, a random sample of 150,000 rows was used for analysis.
+
+## Data Cleaning: AIC Data
+Key Steps:
+1) Removed rows missing location data (~7% removed)
+2) Matched known country values directly
+3) Converted non-country locations using geolocation API (OpenStreetMap via geopy)
+4) Extracted country names using regex parsing
+5) Standardized naming via dictionary mapping
+6) Converted country to continent
+
+Special handling was required due to API rate limits and inconsistent geographic naming.
