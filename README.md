@@ -109,3 +109,46 @@ Special handling was required due to API rate limits and inconsistent geographic
   <img src="images/country_vis_combo.png" height="400">
 </p>
 
+### Combined Datasets Analysis
+- Europe and North America dominate representation despite similar landmass/population to other continents
+- Portions of Asia are moderately represented
+- Africa, South America, and Oceania show disproportionately low representation
+  - Oceania's low representation may be partially explained by lower land mass and population
+
+### Interpretation Considerations
+Representation imbalance does not necessarily imply institutional bias but may be influenced by:
+- Archaeological and trade agreements between countries
+- Artifact survival and preservation
+- Acquisition logisitics
+
+## Limitations
+- Datasets were only the digitally documented portions of their collections and not representative of the full collections
+- MET data required sampling due to data size and project restrictions
+- Some cultural identifiers cannot be mapped cleanly to modern country boundaries
+
+## Future Work
+- Representation trends over time using accession date
+- Department-level cultural diversity analysis
+- Inclusion of additional U.S. museum datasets
+- Acquisition trend analysis tied to historical events or leadership changes
+
+## Technical Stack
+- Python
+- Pandas
+- Regex
+- PyCountry-Convert
+- GeoPy
+- OpenStreetMap API
+- Jupyter Notebooks
+
+## My Contributions
+- Designed project concept and research direction
+- Identified and evaluated data sources
+- Built MET data cleaning and normalization notebook
+- Developed geographic standardization dictionary
+- Created exploratory visualizations
+- Built reporting narrative and final presentation materials
+
+## Portfolio Note
+*The original project was completed as a collaborative academic project. This repository is intended to demonstrate data cleaning methodology, analytical reasoning, and reproducible workflow design.
+
