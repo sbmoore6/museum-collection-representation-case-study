@@ -13,13 +13,11 @@ This project analyzes cultural representation patterns across two major U.S. art
  ## Objectives
 
 1) Extract and standardize country-of-origin data for each artwork.
-
 2) Analyze representation by country and continent:
-  - Per museum
-  - Combined dataset
-
+   - Per museum
+   - Combined
  3) Compare museum representation to:
-  - Global population distribution
-  - Continental landmass distribution
+   - Global population distribution
+   - Continental landmass distribution
 
 These objectives were designed to provide insight into collection diversity patterns and potential acquisition bias.
