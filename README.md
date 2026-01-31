@@ -1,5 +1,8 @@
 # Cultural Representation in American Museums
-<img src="images/aic_museum.avif" height="300">
+<p align="center">
+  <img src="images/aic_museum.avif" width="45%" />
+  <img src="images/world_map.jpeg" width="45%" />
+</p>
 
 ## Project Overview
 
