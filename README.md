@@ -33,7 +33,7 @@ These objectives were designed to provide insight into collection diversity patt
   - Region
   - Acquisition Date
  - Format: CSV (~303 MB)
-### [The Art Institute of Chicago](https://github.com/art-institute-of-chicago/api-data/tree/master/json/artworks)
+### [The Art Institute of Chicago Public API Data](https://github.com/art-institute-of-chicago/api-data/tree/master/json/artworks)
 - ~130,000 catalogued artworks
 - Key Variables
   - Title
@@ -43,3 +43,13 @@ These objectives were designed to provide insight into collection diversity patt
 - Format: JSON (~688 MB total)
 Both datasets required extensive preprocessing to standardize geographic origin data.
 
+## Methodology
+### Data Cleaning: MET Data
+Key Steps:
+1) Ranked multiple columns by likelihood of containing geographic origin
+2) Combined columns using prioritized fallback logic
+3) Built country normalization dictionary (alternate names, demonyms)
+4) Applied regex cleaning for punctuation and noise removal
+4) Manual review for unmapped entries
+5) Converted country to continent using pycountry-convert
+Due to file size constraints, a random sample of 150,000 rows was used for analysis.
