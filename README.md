@@ -157,7 +157,7 @@ Representation imbalance does not necessarily imply institutional bias but may b
 - Built reporting narrative and final presentation materials
 
 ## Post Mortem
-- Excel was used to sample the MET dataset due to its size, but looking back I would have used a hosting website and possibly utilized SQL to handle the large dataset
+- Excel was used to sample the MET dataset due to its size, but looking back cloud computing would have been better to handle the large dataset
 - .py should have been used to streamline operations and make the results more reproducable
 - Fuzzymatch would have been a cleaner option to handle some of the spelling and format country name discrepencies
 - Visualization color scheme was chosen to match museum color schemes, but it wasn't the most suitable for the choropleths
