@@ -98,3 +98,5 @@ Special handling was required due to API rate limits and inconsistent geographic
    - Japan (AIC)
  - Some African countries show zero representation in the combined dataset
 
+<img src="images/country_vis_combo.png" height="300">
+
