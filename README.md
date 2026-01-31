@@ -88,7 +88,7 @@ Special handling was required due to API rate limits and inconsistent geographic
 - Africa, South America, and Oceania are significantly underrepresented
   - South America’s population (South America ~443M vs North America ~608M) suggests representation should be closer than observed.
 
-<img src="images/continent_vis_combo.png" height="300">
+<img src="images/continents_vis_combo.png" height="300">
  
  ### Country Level Analysis
  - United States dominates both collections
