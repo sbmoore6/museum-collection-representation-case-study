@@ -21,3 +21,16 @@ This project analyzes cultural representation patterns across two major U.S. art
     - Continental landmass distribution
 
 These objectives were designed to provide insight into collection diversity patterns and potential acquisition bias.
+
+## Data Sources
+### [Metropolitan Museum of Art Open Access Dataset](https://github.com/metmuseum/openaccess)
+- Partial collection inventory
+- ~450,000 catalogued objects
+- Key Variables
+  - Country
+  - Culture
+  - Artist Nationality
+  - Region
+  - Acquisition Date
+ - Format: CSV (~303 MB)
+
