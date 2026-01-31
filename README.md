@@ -160,6 +160,7 @@ Representation imbalance does not necessarily imply institutional bias but may b
 - Excel was used to sample the MET dataset due to its size, but looking back I would have used a hosting website and possibly utilized SQL to handle the large dataset
 - .py should have been used to streamline operations and make the results more reproducable
 - Fuzzymatch would have been a cleaner option to handle some of the spelling and format country name discrepencies
+- Visualization color scheme was chosen to match museum color schemes, but it wasn't the most suitable for the choropleths
 
 ## Portfolio Note
 The original project was completed as a [collaborative academic project](https://github.com/mollykstark/SIADS-Milestone-1/tree/main). This repository is intended to demonstrate data cleaning methodology, analytical reasoning, and reproducible workflow design.
