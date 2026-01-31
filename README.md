@@ -56,7 +56,7 @@ Key Steps:
 Approximate missing country data after cleaning: ~8.6%
 Due to file size constraints, a random sample of 150,000 rows was used for analysis.
 
-## Data Cleaning: AIC Data
+### Data Cleaning: AIC Data
 Key Steps:
 1) Removed rows missing location data (~7% removed)
 2) Matched known country values directly
@@ -66,3 +66,32 @@ Key Steps:
 6) Converted country to continent
 
 Special handling was required due to API rate limits and inconsistent geographic naming.
+
+### Dataset Integration
+1) Standardized shared columns:
+ - Title
+ - Department
+ - Accession Year
+ - Country
+ - Continent
+2) Added museum indicator column
+3) Combined datasets using pandas vertical concatenation
+4) Built aggregated datasets grouped by:
+   - Museum + Country
+   - Museum + Continent
+  
+## Key Findings
+## Continent Level Analysis
+- Heavily skewed toward North America and Europe
+- Asia shows moderate representation (particularly at the MET)
+- Africa, South America, and Oceania are significantly underrepresented
+  - South America’s population (~443M vs North America ~608M) suggests representation should be closer than observed.
+ 
+ ## Country Level Analysis
+ - United States dominates both collections
+ - France is the second most represented country across both museums
+ - Notable non-Western collection concentrations:
+   - Egypt (MET)
+   - Japan (AIC)
+ - Some African countries show zero representation in the combined dataset
+
