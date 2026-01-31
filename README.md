@@ -81,13 +81,13 @@ Special handling was required due to API rate limits and inconsistent geographic
    - Museum + Continent
   
 ## Key Findings
-## Continent Level Analysis
+### Continent Level Analysis
 - Heavily skewed toward North America and Europe
 - Asia shows moderate representation (particularly at the MET)
 - Africa, South America, and Oceania are significantly underrepresented
-  - South America’s population (~443M vs North America ~608M) suggests representation should be closer than observed.
+  - South America’s population (South America ~443M vs North America ~608M) suggests representation should be closer than observed.
  
- ## Country Level Analysis
+ ### Country Level Analysis
  - United States dominates both collections
  - France is the second most represented country across both museums
  - Notable non-Western collection concentrations:
