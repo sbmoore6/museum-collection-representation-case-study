@@ -122,8 +122,10 @@ Special handling was required due to API rate limits and inconsistent geographic
 ### Interpretation Considerations
 Representation imbalance does not necessarily imply institutional bias but may be influenced by:
 - Archaeological and trade agreements between countries
-- Artifact survival and preservation
+- Survival and preservation bias
 - Acquisition logisitics
+- Colonialism and acquisitions history
+- Art vs artifact bias (Some objects may be classified artifact rather than art)
 
 ## Limitations
 - Datasets were only the digitally documented portions of their collections and not representative of the full collections
@@ -149,9 +151,15 @@ Representation imbalance does not necessarily imply institutional bias but may b
 - Designed project concept and research direction
 - Identified and evaluated data sources
 - Built MET data cleaning and normalization notebook
+- Extensively researched historic cultures and countries to match with current countries and continents
 - Developed geographic standardization dictionary
 - Created exploratory visualizations
 - Built reporting narrative and final presentation materials
+
+## Post Mortem
+- Excel was used to sample the MET dataset due to its size, but looking back I would have used a hosting website and possibly utilized SQL to handle the large dataset.
+- .py should have been used to streamline operations and make the results more reproducable.
+- Instead of using so much Regex logic to handle discrepancies in names of countries, fuzzymatch would have been a cleaner option.
 
 ## Portfolio Note
 The original project was completed as a [collaborative academic project](https://github.com/mollykstark/SIADS-Milestone-1/tree/main). This repository is intended to demonstrate data cleaning methodology, analytical reasoning, and reproducible workflow design.
