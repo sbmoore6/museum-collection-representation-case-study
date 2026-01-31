@@ -33,4 +33,13 @@ These objectives were designed to provide insight into collection diversity patt
   - Region
   - Acquisition Date
  - Format: CSV (~303 MB)
+### [The Art Institute of Chicago](https://github.com/art-institute-of-chicago/api-data/tree/master/json/artworks)
+- ~130,000 catalogued artworks
+- Key Variables
+  - Title
+  - Artist Title
+  - Place of Origin
+  - Acquisition Date
+- Format: JSON (~688 MB total)
+Both datasets required extensive preprocessing to standardize geographic origin data.
 
