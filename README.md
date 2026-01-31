@@ -1,7 +1,7 @@
 # Cultural Representation in American Museums
 <p align="center">
-  <img src="images/aic_museum.avif" height="300" />
-  <img src="images/world_map.jpg" height="300" />
+  <img src="images/aic_museum.avif" height="275" />
+  <img src="images/world_map.jpg" height="275" />
 </p>
 
 ## Project Overview
@@ -114,6 +114,10 @@ Special handling was required due to API rate limits and inconsistent geographic
 - Portions of Asia are moderately represented
 - Africa, South America, and Oceania show disproportionately low representation
   - Oceania's low representation may be partially explained by lower land mass and population
+<p align="center">
+  <img src="images/continent_choropleth.png" height="275" />
+  <img src="images/country_choropleth.png" height="275" />
+</p>
 
 ### Interpretation Considerations
 Representation imbalance does not necessarily imply institutional bias but may be influenced by:
@@ -150,5 +154,5 @@ Representation imbalance does not necessarily imply institutional bias but may b
 - Built reporting narrative and final presentation materials
 
 ## Portfolio Note
-*The original project was completed as a collaborative academic project. This repository is intended to demonstrate data cleaning methodology, analytical reasoning, and reproducible workflow design.
+The original project was completed as a collaborative academic project. This repository is intended to demonstrate data cleaning methodology, analytical reasoning, and reproducible workflow design.
 
