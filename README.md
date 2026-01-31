@@ -41,6 +41,7 @@ These objectives were designed to provide insight into collection diversity patt
   - Place of Origin
   - Acquisition Date
 - Format: JSON (~688 MB total)
+
 Both datasets required extensive preprocessing to standardize geographic origin data.
 
 ## Methodology
