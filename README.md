@@ -195,7 +195,7 @@ Observed imbalance does **not necessarily imply institutional bias**. Contributi
 
 ---
 
-## Post-Mortem & Lessons Learned
+## Post-Mortem 
 - Cloud computing would have been preferable for large-scale MET data processing
 - Modular `.py` scripts would improve reproducibility over notebook-only workflows
 - Fuzzy matching could replace some manual normalization steps
