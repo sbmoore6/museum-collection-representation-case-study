@@ -94,7 +94,7 @@ Special handling was required due to API rate limits and inconsistent geographic
   - South America’s population (South America ~443M vs North America ~608M) suggests representation should be closer than observed.
 
 <p align="center">
-  <img src="figures/continents_vis_combo.png" height="400">
+  <img src="figures/continents_bar_chart.png" height="400">
 </p>
  
  ### Country Level Analysis
@@ -106,7 +106,7 @@ Special handling was required due to API rate limits and inconsistent geographic
  - Some African countries show zero representation in the combined dataset
 
 <p align="center">
-  <img src="figures/country_vis_combo.png" height="400">
+  <img src="figures/country_bar_chart.png" height="400">
 </p>
 
 ### Combined Datasets Analysis
