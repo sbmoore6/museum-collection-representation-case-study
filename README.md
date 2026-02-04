@@ -158,6 +158,17 @@ Observed imbalance does **not necessarily imply institutional bias**. Contributi
 
 ---
 
+## Technical Stack
+- Python
+- Pandas
+- Regex
+- PyCountry-Convert
+- GeoPy
+- OpenStreetMap API
+- Jupyter Notebooks
+
+---
+
 ## My Contributions
 - Designed research question and project scope
 - Identified and evaluated museum datasets
@@ -168,7 +179,6 @@ Observed imbalance does **not necessarily imply institutional bias**. Contributi
 - Authored final reporting narrative and presentation materials
 
 ---
-
 
 ## Limitations
 - Datasets represent only digitally catalogued portions of collections
@@ -182,17 +192,6 @@ Observed imbalance does **not necessarily imply institutional bias**. Contributi
 - Department-level diversity analysis
 - Inclusion of additional U.S. museum datasets
 - Acquisition trends correlated with historical events or leadership changes
-
----
-
-## Technical Stack
-- Python
-- Pandas
-- Regex
-- PyCountry-Convert
-- GeoPy
-- OpenStreetMap API
-- Jupyter Notebooks
 
 ---
 
