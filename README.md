@@ -158,6 +158,18 @@ Observed imbalance does **not necessarily imply institutional bias**. Contributi
 
 ---
 
+## My Contributions
+- Designed research question and project scope
+- Identified and evaluated museum datasets
+- Built MET data cleaning and normalization pipeline
+- Researched historical cultures and geographic mappings
+- Developed country and continent standardization dictionary
+- Created analytical visualizations
+- Authored final reporting narrative and presentation materials
+
+---
+
+
 ## Limitations
 - Datasets represent only digitally catalogued portions of collections
 - MET dataset required sampling due to size constraints
@@ -181,17 +193,6 @@ Observed imbalance does **not necessarily imply institutional bias**. Contributi
 - GeoPy
 - OpenStreetMap API
 - Jupyter Notebooks
-
----
-
-## My Contributions
-- Designed research question and project scope
-- Identified and evaluated museum datasets
-- Built MET data cleaning and normalization pipeline
-- Researched historical cultures and geographic mappings
-- Developed country and continent standardization dictionary
-- Created analytical visualizations
-- Authored final reporting narrative and presentation materials
 
 ---
 
